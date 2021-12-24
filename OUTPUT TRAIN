@@ -1,0 +1,104 @@
+  Welcome to Malaysia Railways
+                                                Purchasing Ticket System!                                                
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Please enter your name: ASYRAAF DANIAL
+Welcome ASYRAAF DANIAL!
+ 
+-------------------------------------------------------------------------------------------------------------------------
+ 
+Where do you want to go, ASYRAAF DANIAL?
+Departure Station: SUNGAI PETANI
+Destination Station: KL SENTRAL
+ 
+You have selected to depart at SUNGAI PETANI Station and arrive at KL SENTRAL Station.
+ 
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                    TICKET PRICE LIST FOR SUNGAI PETANI STATION TO KL SENTRAL STATION (EXCLUSIVE SST)                
+    ________________________________________________________________________________________________________________
+    |                  |                              |          HOT SEAT           |        CAFETERIA SEAT        |
+    |    CATEGORIES    |         NORMAL SEAT          |       (EXTRA LEGROOM)       |       (CAFETERIA COACH)      |
+    |__________________|______________________________|_____________________________|______________________________|
+    |                  |                              |                             |                              |
+    |      ADULT       |           RM65.70            |          RM72.27            |           RM75.56            |
+    |                  |                              |                             |                              |
+    |      CHILD       |           RM59.13            |          RM65.04            |           RM68.00            |
+    |                  |                              |                             |                              |
+    |     STUDENT      |           RM52.56            |          RM57.82            |           RM60.44            |
+    |                  |                              |                             |                              |
+    |     DISABLED     |           RM39.42            |          RM43.36            |           RM45.33            |
+    |                  |                              |                             |                              |
+    |      SENIOR      |           RM45.99            |          RM50.59            |           RM52.89            |
+    |__________________|______________________________|_____________________________|______________________________|
+
+        PLEASE ENTER THE QUANTITY OF TICKETS YOU WANT TO BUY ACCORDING TO THE PASSENGER CATEGORIES AND SEAT TYPES        
+
+Adult Passenger (Normal Seat): 0
+Adult Passenger (Hot Seat): 2
+Adult Passenger (Cafeteria Seat): 0
+
+Child Passenger (Normal Seat): 2
+Child Passenger (Hot Seat): 0
+Child Passenger (Cafeteria Seat): 0
+
+Student Passenger (Normal Seat): 0
+Student Passenger (Hot Seat): 0
+Student Passenger (Cafeteria Seat): 3
+
+Disabled Passenger (Normal Seat): 0
+Disabled Passenger (Hot Seat): 0
+Disabled Passenger (Cafeteria Seat): 0
+
+Senior Passenger (Normal Seat): 0
+Senior Passenger (Hot Seat): 2
+Senior Passenger (Cafeteria Seat): 0
+
+-------------------------------------------------------------------------------------------------------------------------
+                                                  MALAYSIA RAILWAYS                                                      
+                                            TICKET PURCHASED CONFIRMATION                                                
+-------------------------------------------------------------------------------------------------------------------------
+Name                       : ASYRAAF DANIAL
+Order ID.                  : 301221003
+Date Purchased             : 30/12/2021
+Time Purchased             : 4:30 p.m.
+Payment Method             : Malaysia Railways e-Wallet
+Departure Station          : SUNGAI PETANI Station
+Destination Station        : KL SENTRAL Station
+-------------------------------------------------------------------------------------------------------------------------
+No                Ticket Categories                         Quantity                                      Cost (RM)        
+-------------------------------------------------------------------------------------------------------------------------
+
+1          Adult Passenger (Normal Seat)                       0                                           0.00
+2          Adult Passenger (Hot Seat)                          2                                         144.54
+3          Adult Passenger (Cafeteria Seat)                    0                                           0.00
+4          Child Passenger (Normal Seat)                       2                                         118.26
+5          Child Passenger (Hot Seat)                          0                                           0.00
+6          Child Passenger (Cafeteria Seat)                    0                                           0.00
+7          Student Passenger (Normal Seat)                     0                                           0.00
+8          Student Passenger (Hot Seat)                        0                                           0.00
+9          Student Passenger (Cafeteria Seat)                  3                                         181.33
+10         Disabled Passenger (Normal Seat)                    0                                           0.00
+11         Disabled Passenger (Hot Seat)                       0                                           0.00
+12         Disabled Passenger (Cafeteria Seat)                 0                                           0.00
+13         Senior Passenger (Normal Seat)                      0                                           0.00
+14         Senior Passenger (Hot Seat)                         2                                         101.18
+15         Senior Passenger (Cafeteria Seat)                   0                                           0.00
+-------------------------------------------------------------------------------------------------------------------------
+
+ Amount                                        :                                                         545.31
+-------------------------------------------------------------------------------------------------------------------------
+
+ Sales and Service Tax (SST)                   :                                                          32.72
+-------------------------------------------------------------------------------------------------------------------------
+
+ Subtotal                                      :                                                         578.03
+-------------------------------------------------------------------------------------------------------------------------
+
+ Malaysia Railways e-Wallet Balance            :                                                         121.97
+-------------------------------------------------------------------------------------------------------------------------
+ 
+                                                    Congratulations!                                                       
+                                           You purchases have been confirmed                                               
+                                       Please be at the station 30 minutes earlier                                         
+                                            Have a nice day ASYRAAF DANIAL!                          
