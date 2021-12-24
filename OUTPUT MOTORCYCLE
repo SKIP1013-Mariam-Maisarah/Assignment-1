@@ -1,0 +1,48 @@
+Welcome to System to Calculate Estimated Service Charge
+______________________________________________________________________________________________
+| Braking problems    | Bad Throttle Response | Vibrations or jerking | High Fuel Consumption|
+|_____________________|_______________________|_______________________|______________________|
+|Item 1: Brake cable  |Item 1: Carburetor     |Item 1: Shock absorber |Item 1: Clutch plates |
+|Item 2: Brake pads   |Item 2: Air filter     |Item 2: Chain sprocket |Item 2: Radials       |
+|Item 3: Brake drums  |Item 3: Fuel filter    |                       |Item 3: Break shoe    |
+|                     |Item 4: Spark plug     |                       |Item 4: Drum          |
+|                     |                       |                       |Item 5: Bearings      |
+|_____________________|_______________________|_______________________|______________________|
+50% off will be given for diagnose with more than two items
+
+Enter model of motorcycle: 
+Yamaha
+
+Braking Problems
+Quantity of item 1: 1
+Quantity of item 2: 1
+Quantity of item 3: 1
+Price: RM 132.00
+Price after discount: RM 66.00
+
+Bad Throttle Response
+Quantity of item 1: 1
+Quantity of item 2: 1
+Quantity of item 3: 1
+Quantity of item 4: 1
+Price: RM 86.40
+Price after discount: RM 43.20
+
+Vibrations or jerking
+Quantity of item 1: 1
+Quantity of item 2: 1
+Price: RM 101.90
+
+High Fuel Consumption
+Quantity of item 1: 1
+Quantity of item 2: 1
+Quantity of item 3: 1
+Quantity of item 4: 1
+Quantity of item 5: 1
+Price: RM 512.20
+Price after discount: RM 256.10 
+
+Model of motorcycle: Yamaha
+Subtotal: RM 467.20
+SST: RM 46.72
+Grand total: RM 513.92
